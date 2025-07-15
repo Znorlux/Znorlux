@@ -42,7 +42,7 @@ aka Christian Lombardi
     <br>
     <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"/>
