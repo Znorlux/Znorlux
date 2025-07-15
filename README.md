@@ -22,7 +22,7 @@ aka Christian Lombardi
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width = 450px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width = 400px></picture>
 
 - 🧑‍💻 I'm Christian, also known as **Znorlux** — a **Cybersecurity Researcher** and **Fullstack Developer**.
 - 🛡️ I specialize in **Offensive Security**, red teaming, and building real-world attack simulations.
