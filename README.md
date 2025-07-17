@@ -46,6 +46,8 @@ aka Christian Lombardi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nim/nim-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30px"/>
+
 
   </kbd>
   <kbd>
